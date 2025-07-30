@@ -1,0 +1,50 @@
+{
+  "name": "sample-copilot-prompt-library",
+  "displayName": "sample-copilot-prompt-library",
+  "description": "This is the sample copilot prompt library extenstion, it will be used in Visual studio. Author: Ramachandran Annamalai",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:sample-copilot-prompt-library.showPrompts"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "sample-copilot-prompt-library.showPrompts",
+        "title": "Copilot prompts library: Show Prompts", 
+        "category": "Copilot Prompts Library"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src",
+    "test": "vscode-test --extensionDevelopmentPath=. --extensionTestsPath=./out/test/extension.test.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.102.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "20.x",
+    "@typescript-eslint/eslint-plugin": "^8.31.1",
+    "@typescript-eslint/parser": "^8.31.1",
+    "eslint": "^9.25.1",
+    "typescript": "^5.8.3",
+    "@vscode/test-cli": "^0.0.11",
+    "@vscode/test-electron": "^2.5.2"
+  },
+  "publisher": "your-publisher-id",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/sample-copilot-prompt-library.git"
+  },
+  "license": "MIT"
+}

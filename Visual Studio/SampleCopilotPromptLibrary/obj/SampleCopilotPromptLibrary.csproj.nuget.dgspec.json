@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\SampleCopilotPromptLibrary\\Visual Studio\\SampleCopilotPromptLibrary\\SampleCopilotPromptLibrary.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\SampleCopilotPromptLibrary\\Visual Studio\\SampleCopilotPromptLibrary\\SampleCopilotPromptLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\SampleCopilotPromptLibrary\\Visual Studio\\SampleCopilotPromptLibrary\\SampleCopilotPromptLibrary.csproj",
+        "projectName": "SampleCopilotPromptLibrary",
+        "projectPath": "D:\\Projects\\SampleCopilotPromptLibrary\\Visual Studio\\SampleCopilotPromptLibrary\\SampleCopilotPromptLibrary.csproj",
+        "packagesPath": "C:\\Users\\Ram\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\SampleCopilotPromptLibrary\\Visual Studio\\SampleCopilotPromptLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Ram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.sitecore.com/resources/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.10.2186, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

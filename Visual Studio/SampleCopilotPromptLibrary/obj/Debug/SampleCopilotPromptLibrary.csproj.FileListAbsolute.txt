@@ -1,0 +1,17 @@
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\SampleCopilotPromptLibrary.csproj.AssemblyReference.cache
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\_EmptyResource.resources
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\SampleCopilotPromptLibrary.csproj.GenerateResource.cache
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\SampleCopilotPromptLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\bin\Debug\prompts.json
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\bin\Debug\SampleCopilotPromptLibrary.dll
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\bin\Debug\SampleCopilotPromptLibrary.pdb
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\bin\Debug\SampleCopilotPromptLibrary.pkgdef
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\bin\Debug\SampleCopilotPromptLibrary.vsix
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\bin\Debug\extension.vsixmanifest
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\SampleCopilotPromptLibrary.dll
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\SampleCopilotPromptLibrary.pdb
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\SampleCopilotPromptLibrary.pkgdef
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\SampleCopilotPromptLibrary.latest.pkgdef
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\extension.vsixmanifest
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\files.json
+D:\Projects\SampleCopilotPromptLibrary\Visual Studio\SampleCopilotPromptLibrary\obj\Debug\createTemplateManifests.cache

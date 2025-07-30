@@ -1,0 +1,13 @@
+[
+{
+    "title": "Create a rest API prompt ",
+    "prompt": "You are a REST API developer. Create a REST API for a simple CRUD application using C# programing with framework 4.8.",
+    "tags": ["rest", "api", "crud", "C#"]
+},
+{
+    "title": "Create a sitecore template for a simple blog",
+    "prompt": "You are a Sitecore developer. Create a Sitecore template for a simple blog using Sitecore 9.",
+    "tags": ["sitecore 10.4", "template", "blog", "C#"]
+}
+
+]
